@@ -1,0 +1,22 @@
+{
+  "name": "mehr.studio",
+  "version": "1.0.0",
+  "description": "A cute app for smart but forgetful people like myself ;)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehrbeniss/forgetful.git"
+  },
+  "author": "Mehrnoosh Beniss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehrbeniss/forgetful/issues"
+  },
+  "homepage": "https://github.com/mehrbeniss/forgetful#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
